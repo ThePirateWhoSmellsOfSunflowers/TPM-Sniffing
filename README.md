@@ -10,6 +10,8 @@ Trusted Platform Module (TPM) is a hardware-based security chip that is often us
 
 ## Table: TPM Communication Methods
 
+Web version of this table is avaible on [vmk.lol](https://vmk.lol)
+
 | Make      | Model         | Model Number        | TPM     | Chipset          | Protocol | Location                        | Debug Headers                                | Blog/Research                                                                                                | Extractable |
 |-----------|---------------|---------------------|---------|------------------|----------|---------------------------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------|
 | Lenovo    | Thinkpad      | L440                | 1.2     | P24JPVSP         | LPC      | Under Keyboard                  | Yes                                          | [Blog](https://blog.scrt.ch/2021/11/15/tpm-sniffing/)                                                        | Yes         |
@@ -92,6 +94,8 @@ For further information and detailed instructions, refer to the provided blog po
 [Sniffing Bitlocker Keys 2024](https://en4rab.github.io/posts/Sniffing-Bitlocker-Keys/)
 
 [CVE-2026-0714: TPM Sniffing LUKS Keys on an Embedded Device](https://www.cyloq.se/en/research/cve-2026-0714-tpm-sniffing-luks-keys-on-an-embedded-device)
+
+[YellowKey: Bitlocker Bypass Vulnerability](https://github.com/Nightmare-Eclipse/YellowKey)
 
 ## Tools
 
