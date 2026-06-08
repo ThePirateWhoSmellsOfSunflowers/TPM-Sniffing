@@ -50,6 +50,8 @@ Web version of this table is avaible on [vmk.lol](https://vmk.lol)
 
 For further information and detailed instructions, refer to the provided blog posts and research documents.
 
+[Bitzkrieg - Recovery Bypass](https://x.com/jonasLyk/status/2062768028090007773)
+
 [TPM-sniffing with Saleae logic analyzer-2025](https://pentests.nl/pentest-blog/tpm%E2%80%91sniffing-with-saleae-logic-analyzer/)
 
 [Privilege escalation through TPM Sniffing when BitLocker PIN is enabled](https://blog.scrt.ch/2024/10/28/privilege-escalation-through-tpm-sniffing-when-bitlocker-pin-is-enabled/)
